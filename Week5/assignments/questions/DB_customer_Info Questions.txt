@@ -1,0 +1,19 @@
+--Q1: In order to post welcome letters and user guides to customers, dispatch team need 
+
+--Q2: Get the details of customers who HAVE CONNECTIONS in more than one location.
+
+--Q3: Which are the customers that have not given their house details.
+
+--Q4: Get the install dates corresponding to all customers in different locations.
+
+--Q5: Get the location details along with count of services installed in the location.
+
+
+--Q6: Get the customer name and contact details of the customers along with other info 
+
+
+--Q7: Location details where install orders are in open state.
+
+
+--Q8: Are their any customers who have made a complaint more than once? Get the cust details as well.
+

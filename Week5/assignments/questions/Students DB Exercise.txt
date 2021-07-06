@@ -1,0 +1,10 @@
+Import the database attached and run the following queries
+
+
+--Q1: Display student details and the courses they are enrolled to.
+
+--Q2: Display details of all students and the count of courses they are enrolled to.
+
+--Q3: Display details of students which are not yet enrolled to any course.
+
+--Q4: List all courses and the count of students enrolled to each course.

@@ -1,0 +1,67 @@
+Fixed Income -> interests and coupons
+	Companies can raise debts from the Capital Market, by issue of Bonds(debunture)
+	
+
+	Using bond to raise capital -> 
+		Lender/Investor pays par value (quantity * issue price) to purchase the bond
+		Issuer repays bond par value plus coupons
+		Par Value -> Selling at face value
+		Premium -> The difference between face value and selling value (Market price > face value)
+		Discount -> Face value < Selling Price
+
+Short term debt
+	-> Commerical Paper
+	-> US Government Treasury Bills (bond traded at discount): Paid at par value
+
+Repos -> Repurchase agreements
+
+Fractional Requirement -> does it increase in proportion to number of customers
+	-> IT is standardized by the central bank -> under the banking reserve act.
+
+Coupons:
+	-> Fixed 
+	-> Floating 
+	-> Zero
+
+Why invest in a bond ?
+	-> Fixed income
+	-> Better rate than banks
+	-> More PRedictable
+	-> return on capital
+	-> Long term investment
+	-> low risk than equity
+
+Junk bond is when market value < par value  
+
+
+Bond types:
+	Gilts: UK Govt
+	T-Bills: US Treasury
+	Convertible: Bond to equity security 
+	Perpertual bonds: No maturity date or guarantee of payment
+	yield : Coupon / market PRice of the bond
+	Callable: redeemed by issuer before maturity
+	Ordinated vs subordinated: Ordinated have higher preference during default, and liquidation 
+	
+
+Bonds have inverse relationship with interest rates
+
+Bigger the difference between Coupon rate and interest rate, bigger the price change
+
+Municipal bonds: Issued by
+ -> State
+ -> Government entities
+ -> Cities
+ -> Counties
+
+
+Put -> Sell -> Short
+Call -> Buy -> Long
+
+
+Treasury -> Liquidity
+	-> Capital
+	-> Funding
+	-> Market Volatility
+	-> Increased Regulation
+

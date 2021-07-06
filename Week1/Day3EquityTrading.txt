@@ -1,0 +1,148 @@
+Fundamentals of trading:
+	-> Buy Low, Sell High
+	-> Bull market - condition of the market in which prices are rising or 
+			expected to rise - optimistic times of economic growth
+	-> Bear market - condition of the market in which prices are falling or 
+			expected to fall - times typically shrouded in pessimism
+	
+
+Why invest?
+	-> Regular Income 
+	-> Captial Growth
+	-> Long term investment
+	-> High liquidity 
+	-> Transparent market place
+	-> Ownership voting rights
+
+Market Participants:
+	-> Speculators: Day traders, hedge funds, hft(high frequency traders), individuals
+	-> Investors: long term capital growth, dividends
+	-> market makers: provide liquidity
+
+Rate at which stocks are traded - Market index
+	weighted average: Market capitalizations (share price x number of shares) of top companies / total number of shares
+
+Sensex -> top 30 companies
+
+CAGR = compounded annual growth rate
+NAV -> net asset value, value per share of a mutual fund (index of mututal fund)
+AUM -> total assests that the funds own, assets under management
+BV -> book value: total book assets - liability
+
+EPS -> patesh / outstanding number of shares! (earnings)
+PE -> Market price / eps
+
+
+ADR -> American Depositary Receipts
+	
+
+Market Crash, circuit breakers, impact on macro economy	
+
+A stock market crash is a rapid and often unanticipated drop in stock prices. 
+A stock market crash can be a side effect of a major 
+catastrophic event, economic crisis, or the collapse of a long-term speculative bubble.
+
+Panic Selling.
+	-> Reactionary public panic about a stock market crash can also be a major 
+	contributor to it, inducing panic selling that depresses prices even further.
+
+Speculative bubble -> A speculative bubble is a spike in asset values within a particular 
+			industry, commodity, or asset class to unsubstantiated levels, fueled by 
+			irrational speculative activity that is not supported by the fundamentals.
+
+
+
+
+Circuit Breakers
+
+	The first market-wide circuit breakers were introduced in the U.S. 
+	after Black Monday in 1987 when the Dow Jones Industrial Average (DJIA) 
+	declined by 22% in one day.
+However, the rules established after Black Monday did not help to prevent the Flash Crash in 2010. 
+In February 2013, the U.S. Securities and Exchange Commission (SEC) introduced new market-wide circuit 
+breakers rules. The S&P 500 index was chosen as the new benchmark, replacing the Dow. The percentage 
+decline of the market index is calculated based on the prior-day closing price of the S&P 500.
+
+The market index percentage changes were split into three tiers. Level 1 tier sets up a threshold of 
+7% decline, level 2 circuit breaker triggers at a 13% decline, and level 3 sets up a benchmark of a 20% slump. Levels 1 and 2 halt the trading for 15 minutes if a market drop occurs before 3:25 p.m. However, if the decline occurs at or after 3:25 p.m., the trading continues. Level 3 stops the trading 
+for the remainder of the trading day in any circumstances.
+
+
+Lessons learned
+-> Don’t fall prey to selling your investments in a panic. 
+	Understand the difference between a notional loss and a realized loss. 
+-> Avoid the urge to investing in a lump sum and increasing the risk of losses by choosing the 
+	wrong investments. Instead, have a slow and steady approach to investing.
+-> You will feel the urge to speculate – DON’T! Sick with the basics of investments.
+-> Historically, markets have always recovered from crashes and bounced back higher and stronger. 
+	Look at the longer-term and adjust your portfolio accordingly.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Stock Identifiers:
+	-> Instrucment code/ticker: stock exchange
+	-> RIC, bloomberg ID: research purpose
+
+
+Types of Equity Trading:
+	-> Low touch: 
+	-> High touch: OTC (over the counter) trading
+
+
+Order Types
+ -> Market
+ -> On open
+ -> Hidden Limit
+ -> IOC (Immediate or cancel)	
+ -> Limit:
+ -> Min execution size: executes only when the minimum volumne is met
+ -> FOK (Fill or kill)
+ -> On close 
+
+Order book
+ -> Bid: max price a buyer is willing to buy
+ -> ask: min price a seller is willing to sell their stock
+ -> spread: hightest bid - lowest ask price
+
+
+short -> sell
+long -> buy
+
+100 Basis Point = 1 %
+
+Stock Ticks -> 1 paise - lowest currency denomination
+
+SOR -> Stock order routing 
+
+
+Load Balancing - Trading System:
+	Replication and sharding
+
+
+ALGORITHMIC TRADING AND SOR
+
+HFT 
+ -> uses Algorithms
+ -> High speed
+ -> Low latency
+
+Co-location
+
+
+
+

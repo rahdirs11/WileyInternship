@@ -1,0 +1,58 @@
+LIBOR -> London interabank offered rate.
+
+Came to light in 2012
+Evidence since 2003
+
+Deutsche Bank (DB), Barclays (BCS), Citigroup (C), JPMorgan Chase (JPM), and the Royal Bank of Scotland (RBS).
+
+Phased out by June 30, 2023. Replaced by SOFR, Secured overnight financing rate.
+LIBOR rates wont be published after end of this year.
+credible Benchmark rate.
+
+The scandal left several regulatory changes, lawsuits, and fines in its wake, 
+damaging public trust in the financial markets.
+
+
+LIBOR: used for pricing of loan and derivative products throught the world.
+	Participating banks submitted low or high interest rates according to their derivative
+		and trading activites.
+	Used in derivative pricing.
+	General public fear and outrage - regarding financial security
+	$9 bil, fined by Regulators (USA and UK), on the participants of the scam (the global banks) and 
+		criminal charges; rate-fixing negatively affected them!
+	Example:
+		Individual homeowner's mortgage rates went up artificially due to the upward manipulation of 
+		LIBOR.
+		Financial Conduct Authority(FCA) took the responsibility BBA(Birtish Bankers Asso) 
+		and turned it to IBA(Intercontinental Exchange's Benchmark Adminsitration).
+		IBA is an independent UK subsidiary of private US based exchange operator, ICE(
+		Intercontinental Exchange). 
+		LIBOR -> ICE LIBOR 
+		New York Federal Reserve launched an alternative to LIBOR in 04-2018 -> SOFR, based on 
+		short-term loans in the repo market.
+			Makes it a more accurate indicator of borrowing costs.
+		SOFR -> based on data from observable transactions.
+	ASKING A BANK TO REPORT THEIR BORROWING COSTS, EXPOSES THEIR CREDIT WORTHINESS!
+
+NOT THE RATES AT WHICH BANKS BORROW AND LEND MONEY TO EACH OTHER, 
+	BUT THE AVERAGE RATE, DECIDED BY A POOL OF BANKS FOR DIFF CURRENCIES, 
+	AND TIME PERIOD, WHAT THEY BELIEVE IT WOULD COST THEM TO BORROW DURING THAT TIME PERIOD
+
+
+BENCHMARK / REFERENCE INTEREST RATE!
+INDIVIDUAL EXPENSES ARE EXPOSED AFTER 3 MONTHS! ANY SHORT TIME CRISIS "WOULD BE" PASSED BY THEN
+
+DERIVATIVE PRICING -> Financial contracts whose value is dependant on underlying asset(s)
+
+REGULATORS -> aka RBI of INDIA
+
+REPO MARKET-> short term borrowing mainly in government securities. Cash on one side, 
+	Tresury on the other, two way intersection. 
+
+
+
+
+Result -> Validity of LIBORs validity.
+
+		
+
